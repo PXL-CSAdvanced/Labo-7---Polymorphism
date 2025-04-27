@@ -1,0 +1,19 @@
+Type,Name,WorkspaceWidth,WorkspaceHeight,CostPerMinute,Accuracy
+L,lasercutter,1200,800,0.5,0.0005
+R,cnc router,1500,1000,0.75
+L,lathe,1000,600,0.6,0.0017
+R,milling machine,1300,900,0.8
+G,grinder
+L,waterjet cutter,1600,1100,1.2,0.000001
+L,plasma cutter,1400,1000,1.1,0.0001
+C,bandsaw,800,500,0.4
+L,welder,600,400,0.35,0.23
+G,sander
+R,planer,900,600,0.45
+R,jointer,800,500,0.4
+R,shaper,1000,700,0.55
+R,laser engraver,1200,800,1.5
+L,vinyl cutter,600,400,0.3,0.08
+R,heat press,500,300,0.2
+L,embroidery machine,700,500,1.2,0.05
+G,sewing machine
