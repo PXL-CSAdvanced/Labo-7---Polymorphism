@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Labo_7___Polymorphism"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Machinepark" Height="450" Width="800">
     <DockPanel>
         <StackPanel DockPanel.Dock="Right">
             <Button Name="importButton" Content="Import" Width="100" Height="30" VerticalAlignment="Top" Margin="5" Click="ImportButton_Click"/>
